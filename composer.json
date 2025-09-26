@@ -1,0 +1,22 @@
+{
+    "name": "kucil/components-utilities-integer",
+    "description": "Kumpulan fungsi level utilitas tipe data integer.",
+    "type": "library",
+    "time": "2026-01-07",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "menyongmenying",
+            "email": "menyongmenying.main@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Kucil\\Components\\Utilities\\": "./src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "12.0.0"
+    }
+}
